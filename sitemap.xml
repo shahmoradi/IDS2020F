@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>/IDS2020F</loc>
+    </url>
+    
+    
+    <url>
+        <loc>/IDS2020F/404</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/about/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/categories/index.html</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/feed.xml</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/highlights/</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/links.jsonp</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/search.json</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/sitemap.xml</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/tags/index.html</loc>
+    </url>
+    
+
+    
+    <url>
+        <loc>/IDS2020F/lecture/1-programming-history</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/homework/1-version-control-using-git-github</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/announcement/0-student-professor-connection-day</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/lecture/2-vcs</loc>
+    </url>
+    
+</urlset>

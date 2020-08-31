@@ -1,0 +1,35 @@
+[
+	
+		{
+		  "title"      : "Lecture 1: Programming history",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/lecture/1-programming-history",
+		  "date"       : "2020-08-31 00:00:00 -0500",
+		  "shortdate"  : "August 31, 2020"
+		} ,
+	
+		{
+		  "title"      : "Homework 1: Version Control Using Git and Github",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/homework/1-version-control-using-git-github",
+		  "date"       : "2020-08-31 00:00:00 -0500",
+		  "shortdate"  : "August 31, 2020"
+		} ,
+	
+		{
+		  "title"      : "Announcement 0: Student-professor connection day",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/announcement/0-student-professor-connection-day",
+		  "date"       : "2020-08-26 00:00:00 -0500",
+		  "shortdate"  : "August 26, 2020"
+		} ,
+	
+		{
+		  "title"      : "Lecture 1: Version Control Systems, Git, and GitHub",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/lecture/2-vcs",
+		  "date"       : "2020-08-02 00:00:00 -0500",
+		  "shortdate"  : "August 02, 2020"
+		} 
+	
+]
