@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Lecture 3: Data Science history and Logic",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/lecture/2-logic",
+		  "date"       : "2020-09-30 00:00:00 -0500",
+		  "shortdate"  : "September 30, 2020"
+		} ,
+	
+		{
 		  "title"      : "Quiz 1: Version control system, programming history",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/quiz/1-version-control-system",
@@ -33,7 +41,7 @@
 		} ,
 	
 		{
-		  "title"      : "Lecture 1: Version Control Systems, Git, and GitHub",
+		  "title"      : "Lecture 2: Version Control Systems, Git, and GitHub",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/lecture/2-vcs",
 		  "date"       : "2020-08-02 00:00:00 -0500",

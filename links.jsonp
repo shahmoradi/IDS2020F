@@ -7,7 +7,12 @@ callback([
   } ,
 
   {
-    "text": "Lecture 1: Version Control Systems, Git, and GitHub",
+    "text": "Lecture 3: Data Science history and Logic",
+    "href": "/IDS2020F/lecture/2-logic"
+  } ,
+
+  {
+    "text": "Lecture 2: Version Control Systems, Git, and GitHub",
     "href": "/IDS2020F/lecture/2-vcs"
   } ,
 
