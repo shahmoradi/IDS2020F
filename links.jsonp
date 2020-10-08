@@ -22,8 +22,13 @@ callback([
   } ,
 
   {
+    "text": "Homework 2: Data Science history, and logic",
+    "href": "/IDS2020F/homework/2-logic"
+  } ,
+
+  {
     "text": "Homework 1: Version Control Using Git and Github",
-    "href": "/IDS2020F/homework/1-version-control-using-git-github"
+    "href": "/IDS2020F/homework/1-version-control-using-git-github-Copy"
   } ,
 
   {
