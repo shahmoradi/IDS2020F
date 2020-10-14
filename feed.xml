@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2020F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2020F/" />
-<updated>2020-10-14T16:13:29-05:00</updated>
+<updated>2020-10-14T16:17:12-05:00</updated>
 <id>http:/IDS2020F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -52,33 +52,18 @@ The following figure illustrates the grade distribution for this quiz.
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Name three pillars of Science.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Experiment, Theory, Computation.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name and briefly describe three different applications of Computational and Data Sciences.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Predictive modeling, numerical simulation, data-driven modeling.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-two-types-of-scientific-reasoning/logic/logic-two-types-of-scientific-reasoning&quot; target=&quot;_blank&quot;&gt;Name the two types of scientific reasoning&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication/logic/logic-implication&quot; target=&quot;_blank&quot;&gt;Logical Implication&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication-denial-equivalence/logic/logic-implication-denial-equivalence&quot; target=&quot;_blank&quot;&gt;Logic implication, denial, equivalence&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What did you learn from Professor Winguth’s presentation on Monday Oct 12?&lt;/p&gt;
