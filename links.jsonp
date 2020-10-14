@@ -2,6 +2,11 @@
 callback([
 
   {
+    "text": "Quiz 2: Data Science History Logic",
+    "href": "/IDS2020F/quiz/2-data-science-history-logic"
+  } ,
+
+  {
     "text": "Quiz 1: Version control system, programming history",
     "href": "/IDS2020F/quiz/1-version-control-system"
   } ,
