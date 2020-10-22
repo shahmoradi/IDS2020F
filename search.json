@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Homework 3: Logic and Probability Theory",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/homework/3-logic-probability-theory",
+		  "date"       : "2020-10-21 00:00:00 -0500",
+		  "shortdate"  : "October 21, 2020"
+		} ,
+	
+		{
 		  "title"      : "Quiz 2: Data Science History Logic",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/quiz/2-data-science-history-logic",
@@ -43,7 +51,7 @@
 		{
 		  "title"      : "Homework 1: Version Control Using Git and Github",
 		  "category"   : "",
-		  "url"        : "/IDS2020F/homework/1-version-control-using-git-github-Copy",
+		  "url"        : "/IDS2020F/homework/1-version-control-using-git-github",
 		  "date"       : "2020-08-31 00:00:00 -0500",
 		  "shortdate"  : "August 31, 2020"
 		} ,

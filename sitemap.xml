@@ -48,6 +48,10 @@
 
     
     <url>
+        <loc>/IDS2020F/homework/3-logic-probability-theory</loc>
+    </url>
+    
+    <url>
         <loc>/IDS2020F/quiz/2-data-science-history-logic</loc>
     </url>
     
@@ -68,7 +72,7 @@
     </url>
     
     <url>
-        <loc>/IDS2020F/homework/1-version-control-using-git-github-Copy</loc>
+        <loc>/IDS2020F/homework/1-version-control-using-git-github</loc>
     </url>
     
     <url>
