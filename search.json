@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 3: Logic and probability theory",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/quiz/3-logic-probability",
+		  "date"       : "2020-11-02 00:00:00 -0600",
+		  "shortdate"  : "November 02, 2020"
+		} ,
+	
+		{
 		  "title"      : "Homework 3: Logic and Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/homework/3-logic-probability-theory",
