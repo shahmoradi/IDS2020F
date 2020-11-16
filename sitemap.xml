@@ -48,11 +48,23 @@
 
     
     <url>
+        <loc>/IDS2020F/homework/4-probability-visualization</loc>
+    </url>
+    
+    <url>
         <loc>/IDS2020F/quiz/3-logic-probability</loc>
     </url>
     
     <url>
+        <loc>/IDS2020F/lecture/5-data-vis</loc>
+    </url>
+    
+    <url>
         <loc>/IDS2020F/homework/3-logic-probability-theory</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/lecture/4-probability-theory</loc>
     </url>
     
     <url>
@@ -64,11 +76,15 @@
     </url>
     
     <url>
-        <loc>/IDS2020F/lecture/2-logic</loc>
+        <loc>/IDS2020F/lecture/3-logic</loc>
     </url>
     
     <url>
         <loc>/IDS2020F/quiz/1-version-control-system</loc>
+    </url>
+    
+    <url>
+        <loc>/IDS2020F/lecture/2-vcs</loc>
     </url>
     
     <url>
@@ -81,10 +97,6 @@
     
     <url>
         <loc>/IDS2020F/announcement/0-student-professor-connection-day</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2020F/lecture/2-vcs</loc>
     </url>
     
 </urlset>

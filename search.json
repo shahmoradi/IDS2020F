@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Homework 4: Probability Theory and Data Visualization",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/homework/4-probability-visualization",
+		  "date"       : "2020-11-15 00:00:00 -0600",
+		  "shortdate"  : "November 15, 2020"
+		} ,
+	
+		{
 		  "title"      : "Quiz 3: Logic and probability theory",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/quiz/3-logic-probability",
@@ -9,11 +17,27 @@
 		} ,
 	
 		{
+		  "title"      : "Lecture 5: Data Visualization Techniques",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/lecture/5-data-vis",
+		  "date"       : "2020-11-01 00:00:00 -0500",
+		  "shortdate"  : "November 01, 2020"
+		} ,
+	
+		{
 		  "title"      : "Homework 3: Logic and Probability Theory",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/homework/3-logic-probability-theory",
 		  "date"       : "2020-10-21 00:00:00 -0500",
 		  "shortdate"  : "October 21, 2020"
+		} ,
+	
+		{
+		  "title"      : "Lecture 4: Probability Theory",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/lecture/4-probability-theory",
+		  "date"       : "2020-10-15 00:00:00 -0500",
+		  "shortdate"  : "October 15, 2020"
 		} ,
 	
 		{
@@ -35,7 +59,7 @@
 		{
 		  "title"      : "Lecture 3: Data Science history and Logic",
 		  "category"   : "",
-		  "url"        : "/IDS2020F/lecture/2-logic",
+		  "url"        : "/IDS2020F/lecture/3-logic",
 		  "date"       : "2020-09-30 00:00:00 -0500",
 		  "shortdate"  : "September 30, 2020"
 		} ,
@@ -46,6 +70,14 @@
 		  "url"        : "/IDS2020F/quiz/1-version-control-system",
 		  "date"       : "2020-09-28 00:00:00 -0500",
 		  "shortdate"  : "September 28, 2020"
+		} ,
+	
+		{
+		  "title"      : "Lecture 2: Version Control Systems, Git, and GitHub",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/lecture/2-vcs",
+		  "date"       : "2020-09-02 00:00:00 -0500",
+		  "shortdate"  : "September 02, 2020"
 		} ,
 	
 		{
@@ -70,14 +102,6 @@
 		  "url"        : "/IDS2020F/announcement/0-student-professor-connection-day",
 		  "date"       : "2020-08-26 00:00:00 -0500",
 		  "shortdate"  : "August 26, 2020"
-		} ,
-	
-		{
-		  "title"      : "Lecture 2: Version Control Systems, Git, and GitHub",
-		  "category"   : "",
-		  "url"        : "/IDS2020F/lecture/2-vcs",
-		  "date"       : "2020-08-02 00:00:00 -0500",
-		  "shortdate"  : "August 02, 2020"
 		} 
 	
 ]

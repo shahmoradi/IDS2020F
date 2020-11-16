@@ -7,13 +7,60 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2020F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2020F/" />
-<updated>2020-11-02T15:57:46-06:00</updated>
+<updated>2020-11-16T15:54:20-06:00</updated>
 <id>http:/IDS2020F/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2020F/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Homework 4: Probability Theory and Data Visualization]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2020F/homework/4-probability-visualization"/>
+  <id>http:/IDS2020F/homework/4-probability-visualization</id>
+  <published>2020-11-15T00:00:00-06:00</published>
+  <updated>2020-11-15T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2020F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;p&gt;♣ &lt;strong&gt;Due Date: Wednesday Nov 25, 2020 4:00 PM&lt;/strong&gt;. This homework aims at giving you some experience with probability theory, and data visualization techniques.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Name the two major types of uncertainty and explain which one(s) describe the type of uncertainty in Bayesian school of thought.&lt;/li&gt;
+  &lt;li&gt;Name the most naturally-occurring distribution in Nature.&lt;/li&gt;
+  &lt;li&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;/li&gt;
+  &lt;li&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;/li&gt;
+  &lt;li&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;/li&gt;
+  &lt;li&gt;Does correlation mean causation? Explain with an example.&lt;/li&gt;
+  &lt;li&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;/li&gt;
+  &lt;li&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/li&gt;
+  &lt;li&gt;Name the two major classes of aesthetics.&lt;/li&gt;
+  &lt;li&gt;Name the two major types of data and provide an example for each category.&lt;/li&gt;
+  &lt;li&gt;What is the common name for variables holding data?&lt;/li&gt;
+  &lt;li&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;/li&gt;
+  &lt;li&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;/li&gt;
+  &lt;li&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;/li&gt;
+  &lt;li&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/li&gt;
+  &lt;li&gt;Name four different color scales and explain their most appropriate usage.&lt;/li&gt;
+  &lt;li&gt;What is wrong with the following visualization?
+    &lt;figure&gt;
+    &lt;img src=&quot;./4/wrong.png&quot; alt=&quot;wrong&quot; style=&quot;width:80%&quot; /&gt;
+&lt;/figure&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/coordinates-transformation/coordinates-transformation&quot; target=&quot;_blank&quot;&gt;Coordinates transformation in visualization&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/homework/4-probability-visualization&quot;&gt;Homework 4: Probability Theory and Data Visualization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on November 15, 2020.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -80,6 +127,35 @@ The following figure illustrates the grade distribution for this quiz.
 
 
 <entry>
+  <title type="html"><![CDATA[Lecture 5: Data Visualization Techniques]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/5-data-vis"/>
+  <id>http:/IDS2020F/lecture/5-data-vis</id>
+  <published>2020-11-01T00:00:00-05:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2020F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;This lecture aims at providing an overview of the history of Data Science and Logic.&lt;/p&gt;
+
+&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/UTA-DataScience/DATA1301.2020.Fall/raw/master/3.datavis.pdf&quot; target=&quot;_blank&quot;&gt;Data Visualization Techniques&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/5-data-vis&quot;&gt;Lecture 5: Data Visualization Techniques&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on November 01, 2020.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
   <title type="html"><![CDATA[Homework 3: Logic and Probability Theory]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2020F/homework/3-logic-probability-theory"/>
   <id>http:/IDS2020F/homework/3-logic-probability-theory</id>
@@ -108,6 +184,35 @@ The following figure illustrates the grade distribution for this quiz.
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/homework/3-logic-probability-theory&quot;&gt;Homework 3: Logic and Probability Theory&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on October 21, 2020.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Lecture 4: Probability Theory]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/4-probability-theory"/>
+  <id>http:/IDS2020F/lecture/4-probability-theory</id>
+  <published>2020-10-15T00:00:00-05:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2020F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;This lecture aims at providing an overview of the history of Probability Theory and Randomness.&lt;/p&gt;
+
+&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/UTA-DataScience/DATA1301.2020.Fall/raw/master/2.logic.probability.pdf&quot; target=&quot;_blank&quot;&gt;Probability Theory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/4-probability-theory&quot;&gt;Lecture 4: Probability Theory&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on October 15, 2020.&lt;/p&gt;</content>
 </entry>
 
 
@@ -205,8 +310,8 @@ The following figure illustrates the grade distribution for this quiz.
 
 <entry>
   <title type="html"><![CDATA[Lecture 3: Data Science history and Logic]]></title>
-  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/2-logic"/>
-  <id>http:/IDS2020F/lecture/2-logic</id>
+  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/3-logic"/>
+  <id>http:/IDS2020F/lecture/3-logic</id>
   <published>2020-09-30T00:00:00-05:00</published>
   <updated>0000-00-00T00:00:00-00:00</updated>
   
@@ -229,7 +334,7 @@ The following figure illustrates the grade distribution for this quiz.
 &lt;/ul&gt;
 
   
-  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/2-logic&quot;&gt;Lecture 3: Data Science history and Logic&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on September 30, 2020.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/3-logic&quot;&gt;Lecture 3: Data Science history and Logic&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on September 30, 2020.&lt;/p&gt;</content>
 </entry>
 
 
@@ -368,6 +473,40 @@ A power-law curve looks like a line only when both the X- and Y- axes are plotte
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/quiz/1-version-control-system&quot;&gt;Quiz 1: Version control system, programming history&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on September 28, 2020.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Lecture 2: Version Control Systems, Git, and GitHub]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/2-vcs"/>
+  <id>http:/IDS2020F/lecture/2-vcs</id>
+  <published>2020-09-02T00:00:00-05:00</published>
+  <updated>0000-00-00T00:00:00-00:00</updated>
+  
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2020F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    
+&lt;p&gt;This lecture aims at providing an overview of the Version Control Systems (VCS) and how to use them for our needs in this course.&lt;/p&gt;
+
+&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;version-control-systems-git-and-github&quot;&gt;Version Control Systems, Git, and GitHub&lt;/h3&gt;
+
+&lt;p&gt;To lean about VCS, Git, and GitHub, we will follow the lecture notes available here,&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/version-control-system/version-control-system.html&quot; target=&quot;_blank&quot;&gt;VCS (Python)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/matlab/notes/preliminary-foundations/version-control-system/version-control-system.html&quot; target=&quot;_blank&quot;&gt;VCS (MATLAB)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/2-vcs&quot;&gt;Lecture 2: Version Control Systems, Git, and GitHub&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on September 02, 2020.&lt;/p&gt;</content>
 </entry>
 
 
@@ -780,40 +919,6 @@ A power-law curve looks like a line only when both the X- and Y- axes are plotte
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/announcement/0-student-professor-connection-day&quot;&gt;Announcement 0: Student-professor connection day&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on August 26, 2020.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Lecture 2: Version Control Systems, Git, and GitHub]]></title>
-  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/2-vcs"/>
-  <id>http:/IDS2020F/lecture/2-vcs</id>
-  <published>2020-08-02T00:00:00-05:00</published>
-  <updated>0000-00-00T00:00:00-00:00</updated>
-  
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/IDS2020F</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    
-&lt;p&gt;This lecture aims at providing an overview of the Version Control Systems (VCS) and how to use them for our needs in this course.&lt;/p&gt;
-
-&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;version-control-systems-git-and-github&quot;&gt;Version Control Systems, Git, and GitHub&lt;/h3&gt;
-
-&lt;p&gt;To lean about VCS, Git, and GitHub, we will follow the lecture notes available here,&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/version-control-system/version-control-system.html&quot; target=&quot;_blank&quot;&gt;VCS (Python)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/matlab/notes/preliminary-foundations/version-control-system/version-control-system.html&quot; target=&quot;_blank&quot;&gt;VCS (MATLAB)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/2-vcs&quot;&gt;Lecture 2: Version Control Systems, Git, and GitHub&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on August 02, 2020.&lt;/p&gt;</content>
 </entry>
 
 </feed>
