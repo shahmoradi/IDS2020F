@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Quiz 4: Statistics and data visualization",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/quiz/4-statistics-data-visualization",
+		  "date"       : "2020-12-02 00:00:00 -0600",
+		  "shortdate"  : "December 02, 2020"
+		} ,
+	
+		{
 		  "title"      : "Homework 4: Probability Theory and Data Visualization",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/homework/4-probability-visualization",

@@ -7,13 +7,88 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2020F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2020F/" />
-<updated>2020-11-23T17:48:48-06:00</updated>
+<updated>2020-12-02T15:59:15-06:00</updated>
 <id>http:/IDS2020F/</id>
 <author>
   <name>Amir Shahmoradi</name>
   <uri>http:/IDS2020F/</uri>
   <email>shahmoradi@utexas.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Quiz 4: Statistics and data visualization]]></title>
+  <link rel="alternate" type="text/html" href="http:/IDS2020F/quiz/4-statistics-data-visualization"/>
+  <id>http:/IDS2020F/quiz/4-statistics-data-visualization</id>
+  <published>2020-12-02T00:00:00-06:00</published>
+  <updated>2020-12-02T00:00:00-06:00</updated>
+  <author>
+    <name>Amir Shahmoradi</name>
+    <uri>http:/IDS2020F</uri>
+    <email>shahmoradi@utexas.edu</email>
+  </author>
+  
+  <content type="html">
+  
+    &lt;!--
+This is the solution to [Quiz 1: Problems - Version control system](1-problems-version-control-system.html){:target=&quot;_blank&quot;}.  
+
+The following figure illustrates the grade distribution for this quiz.  
+&lt;figure&gt;
+    &lt;img src=&quot;http:/IDS2020F/quiz/gradeDist/gradeHistQuiz1.png&quot; width=&quot;700&quot;&gt;
+    &lt;figcaption style=&quot;text-align:center&quot;&gt;
+        Maximum possible points is 1.
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+--&gt;
+
+&lt;p&gt;This quiz aims at testing your basic knowledge of (Bayesian) Probability Theory and Data Visualization concepts. 
+Don’t forget to push your answers to your remote repository by the end of quiz time. Push all your answers to &lt;strong&gt;quiz/4/&lt;/strong&gt; folder in your Github project.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Suppose you were participating in the The Monty Hall Problem that we discussed extensively in our class. You pick a door, but then the host &lt;em&gt;blindly and randomly&lt;/em&gt; opens a door 
+(other than what you chose), which subsequently &lt;em&gt;luckily&lt;/em&gt; turns out to contain a goat (as opposed to prize: a car). Then the host asks you whether you would be interested in switching 
+the door you chose with the only other door that is available and unopened. Would you switch your choice with the other remaining door? Would you improve your odds of winning the prize 
+by switching the door? Explain our reasoning.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What types of uncertainty do exist according to the Bayesian school of thought? Can you reduce them to make you knowledge of the phenomena more accurate?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What types of uncertainty do exist according to the Frequentist school of thought? Can you reduce them to make you knowledge of the phenomena more accurate?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two fundamental properties of probability density functions (PDF).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What Probability Density Function would likely best describe the statistics of the number of people going to Disneyland Park on any given day? Is this a discrete PDF or continuous?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Name the most naturally-occurring distribution in Nature.&lt;/li&gt;
+  &lt;li&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;/li&gt;
+  &lt;li&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;/li&gt;
+  &lt;li&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;/li&gt;
+  &lt;li&gt;Does correlation mean causation? Explain with an example.&lt;/li&gt;
+  &lt;li&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;/li&gt;
+  &lt;li&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/li&gt;
+  &lt;li&gt;Name the two major classes of aesthetics.&lt;/li&gt;
+  &lt;li&gt;Name the two major types of data and provide an example for each category.&lt;/li&gt;
+  &lt;li&gt;What is the common name for variables holding data?&lt;/li&gt;
+  &lt;li&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;/li&gt;
+  &lt;li&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;/li&gt;
+  &lt;li&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;/li&gt;
+  &lt;li&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/li&gt;
+  &lt;li&gt;Name four different color scales and explain their most appropriate usage.&lt;/li&gt;
+&lt;/ol&gt;
+
+  
+  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/quiz/4-statistics-data-visualization&quot;&gt;Quiz 4: Statistics and data visualization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on December 02, 2020.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
