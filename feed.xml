@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2020F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2020F/" />
-<updated>2020-12-02T15:59:15-06:00</updated>
+<updated>2020-12-08T02:08:56-06:00</updated>
 <id>http:/IDS2020F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -56,35 +56,130 @@ Don’t forget to push your answers to your remote repository by the end of quiz
 (other than what you chose), which subsequently &lt;em&gt;luckily&lt;/em&gt; turns out to contain a goat (as opposed to prize: a car). Then the host asks you whether you would be interested in switching 
 the door you chose with the only other door that is available and unopened. Would you switch your choice with the other remaining door? Would you improve your odds of winning the prize 
 by switching the door? Explain our reasoning.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+When the host opens the door randomly and blindly, she is not transferring any useful knowledge to us about which door might contain the car. 
+Therefore, her action is not helpful in any way to us and we won’t benefit from dwitching the door.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What types of uncertainty do exist according to the Bayesian school of thought? Can you reduce them to make you knowledge of the phenomena more accurate?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Epistemic, Yes.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What types of uncertainty do exist according to the Frequentist school of thought? Can you reduce them to make you knowledge of the phenomena more accurate?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Epistemic, Yes. Aleatoric, No.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name the two fundamental properties of probability density functions (PDF).&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;PDFs must be always non-negative anywhere they are defined.&lt;/li&gt;
+      &lt;li&gt;The sum of the area under a PDF must equal one.&lt;/li&gt;
+    &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What Probability Density Function would likely best describe the statistics of the number of people going to Disneyland Park on any given day? Is this a discrete PDF or continuous?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Bayesian (and Classical)&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Name the most naturally-occurring distribution in Nature.&lt;/li&gt;
-  &lt;li&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;/li&gt;
-  &lt;li&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;/li&gt;
-  &lt;li&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;/li&gt;
-  &lt;li&gt;Does correlation mean causation? Explain with an example.&lt;/li&gt;
-  &lt;li&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;/li&gt;
-  &lt;li&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/li&gt;
-  &lt;li&gt;Name the two major classes of aesthetics.&lt;/li&gt;
-  &lt;li&gt;Name the two major types of data and provide an example for each category.&lt;/li&gt;
-  &lt;li&gt;What is the common name for variables holding data?&lt;/li&gt;
-  &lt;li&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;/li&gt;
-  &lt;li&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;/li&gt;
-  &lt;li&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;/li&gt;
-  &lt;li&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/li&gt;
-  &lt;li&gt;Name four different color scales and explain their most appropriate usage.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the most naturally-occurring distribution in Nature.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does correlation mean causation? Explain with an example.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two major classes of aesthetics.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two major types of data and provide an example for each category.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the common name for variables holding data?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name four different color scales and explain their most appropriate usage.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the HW4 solutions.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
+
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/quiz/4-statistics-data-visualization&quot;&gt;Quiz 4: Statistics and data visualization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on December 02, 2020.&lt;/p&gt;</content>
@@ -108,29 +203,93 @@ by switching the door? Explain our reasoning.&lt;/p&gt;
     &lt;p&gt;♣ &lt;strong&gt;Due Date: Wednesday Dec 2, 2020 4:00 PM (extended due to Thanksgiving break)&lt;/strong&gt;. This homework aims at giving you some experience with probability theory, and data visualization techniques.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Name the two major types of uncertainty and explain which one(s) describe the type of uncertainty in Bayesian school of thought.&lt;/li&gt;
-  &lt;li&gt;Name the most naturally-occurring distribution in Nature.&lt;/li&gt;
-  &lt;li&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;/li&gt;
-  &lt;li&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;/li&gt;
-  &lt;li&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;/li&gt;
-  &lt;li&gt;Does correlation mean causation? Explain with an example.&lt;/li&gt;
-  &lt;li&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;/li&gt;
-  &lt;li&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/li&gt;
-  &lt;li&gt;Name the two major classes of aesthetics.&lt;/li&gt;
-  &lt;li&gt;Name the two major types of data and provide an example for each category.&lt;/li&gt;
-  &lt;li&gt;What is the common name for variables holding data?&lt;/li&gt;
-  &lt;li&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;/li&gt;
-  &lt;li&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;/li&gt;
-  &lt;li&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;/li&gt;
-  &lt;li&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/li&gt;
-  &lt;li&gt;Name four different color scales and explain their most appropriate usage.&lt;/li&gt;
+  &lt;li&gt;Name the two major types of uncertainty and explain which one(s) describe the type of uncertainty in Bayesian school of thought.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+Aleatoric and Epistemic. Bayesian School of thought advocates Epistemic uncertainty as the sole source of lack of knowledge.
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Name the most naturally-occurring distribution in Nature.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+Gaussian distribution.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+0&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+1/2&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+Poisson&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Does correlation mean causation? Explain with an example.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+No. People who eat more chocolate tend to win more Nobel prizes. There is only correlation here, but most likely no causation.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+Yes. Thw weight of people correlates strongly with how much they eat. Weight depends on the food intake.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+All data visualizations map data values into quantifiable features of the resulting graphic. We refer to these features as &lt;strong&gt;aesthetics&lt;/strong&gt;: position, shape, size, color, …&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Name the two major classes of aesthetics.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+quantitative and qualitative.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Name the two major types of data and provide an example for each category.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+quantitative (e.g., the distribution of temperature on Earth) and qualitative (e.g., all animal species on Earth).&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;What is the common name for variables holding qualitative data?&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+factor
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+Ordered: The temperature of Earth over centuries.&lt;br /&gt;
+Unordered: All animal species on Earth.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+The axes that represent data of the same nature and units (like temperature) should preferably have the same grid sizes.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+For example, when there a few extreme values in data and lots of small values, like the distribution of wealth in the society.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+Data that is periodic.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;Name four different color scales and explain their most appropriate usage.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Qualitative&lt;/li&gt;
+      &lt;li&gt;Sequential&lt;/li&gt;
+      &lt;li&gt;Diverging&lt;/li&gt;
+      &lt;li&gt;Accent&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
   &lt;li&gt;What is wrong with the following visualization?
     &lt;figure&gt;
     &lt;img src=&quot;./4/wrong.png&quot; alt=&quot;wrong&quot; style=&quot;width:80%&quot; /&gt;
 &lt;/figure&gt;
+    &lt;p&gt;&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+Age cannot be less than zero.&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/coordinates-transformation/coordinates-transformation&quot; target=&quot;_blank&quot;&gt;Coordinates transformation in visualization&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/coordinates-transformation/coordinates-transformation&quot; target=&quot;_blank&quot;&gt;Coordinates transformation in visualization&lt;/a&gt;.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+See the question page.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;br /&gt;
+&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
+See the question page.&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
   
@@ -174,24 +333,45 @@ The following figure illustrates the grade distribution for this quiz.
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Name four major definitions of Probability.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Classical, Bayesian, Frequentist, Propensity&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Which school(s) of probability theory define(s) probability as degree of confidence?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Bayesian and Classical&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Which school(s) of probability theory allow incorporation of expert (prior) knowledge in scientific inference?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Bayesian and Classical&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;When data is scarce, which school of probability theory is the most useful for scientific inference?&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Bayesian (and Classical)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name a prominent figure in each of the Frequentist and Bayesian schools of thought.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Fisher (Frequentist), and Laplace (Bayesian)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-a-nand-equivalence/logic/logic-a-nand-equivalence&quot; target=&quot;_blank&quot;&gt;NAND equivalence&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-bayes-rule-proof-venn-disgram/probability-bayes-rule-proof-venn-disgram&quot; target=&quot;_blank&quot;&gt;Proof of Bayes Rule via Venn Diagrams&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -327,18 +507,30 @@ The following figure illustrates the grade distribution for this quiz.
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Name three pillars of Science.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Experiment, Theory, Computation.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name and briefly describe three different applications of Computational and Data Sciences.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Predictive modeling, numerical simulation, data-driven modeling.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-two-types-of-scientific-reasoning/logic/logic-two-types-of-scientific-reasoning&quot; target=&quot;_blank&quot;&gt;Name the two types of scientific reasoning&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication/logic/logic-implication&quot; target=&quot;_blank&quot;&gt;Logical Implication&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication-denial-equivalence/logic/logic-implication-denial-equivalence&quot; target=&quot;_blank&quot;&gt;Logic implication, denial, equivalence&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What did you learn from Professor Winguth’s presentation on Monday Oct 12?&lt;/p&gt;
@@ -366,17 +558,45 @@ The following figure illustrates the grade distribution for this quiz.
   
     &lt;p&gt;♣ &lt;strong&gt;Due Date: Wednesday October 14, 2020 4 PM&lt;/strong&gt;. This homework aims at giving you some experience with logical thinking and algebra.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; Name three pillars of Science.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name three pillars of Science.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; Name and briefly describe three different applications of Computational and Data Sciences.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Experiment, Theory, Computation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name and briefly describe three different applications of Computational and Data Sciences.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;3.&lt;/strong&gt; &lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-two-types-of-scientific-reasoning/logic/logic-two-types-of-scientific-reasoning&quot; target=&quot;_blank&quot;&gt;Name the two types of scientific reasoning&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+Predictive modeling, numerical simulation, data-driven modeling.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-two-types-of-scientific-reasoning/logic/logic-two-types-of-scientific-reasoning&quot; target=&quot;_blank&quot;&gt;Name the two types of scientific reasoning&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;4.&lt;/strong&gt; &lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-policeman-jewelry-burglar/logic/logic-policeman-jewelry-burglar&quot; target=&quot;_blank&quot;&gt;Policeman, jewelry, and burglar&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the question’s page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-policeman-jewelry-burglar/logic/logic-policeman-jewelry-burglar&quot; target=&quot;_blank&quot;&gt;Policeman, jewelry, and burglar&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;5.&lt;/strong&gt; &lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication/logic/logic-implication&quot; target=&quot;_blank&quot;&gt;Logical Implication&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the question’s page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication/logic/logic-implication&quot; target=&quot;_blank&quot;&gt;Logical Implication&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;6.&lt;/strong&gt; &lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-product-denial/logic/logic-product-denial&quot; target=&quot;_blank&quot;&gt;Logical product denial&lt;/a&gt;.&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the question’s page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-product-denial/logic/logic-product-denial&quot; target=&quot;_blank&quot;&gt;Logical product denial&lt;/a&gt;.&lt;/p&gt;
+
+    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
+See the question’s page.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/homework/2-logic&quot;&gt;Homework 2: Data Science history, and logic&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on October 07, 2020.&lt;/p&gt;</content>
