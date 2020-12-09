@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Final Exam",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/exam/1-exam",
+		  "date"       : "2020-12-09 00:00:00 -0600",
+		  "shortdate"  : "December 09, 2020"
+		} ,
+	
+		{
 		  "title"      : "Quiz 4: Statistics and data visualization",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/quiz/4-statistics-data-visualization",

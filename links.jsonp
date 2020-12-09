@@ -67,6 +67,11 @@ callback([
   } ,
 
   {
+    "text": "Final Exam",
+    "href": "/IDS2020F/exam/1-exam"
+  } ,
+
+  {
     "text": "Announcement 0: Student-professor connection day",
     "href": "/IDS2020F/announcement/0-student-professor-connection-day"
   } 
