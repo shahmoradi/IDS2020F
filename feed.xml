@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2020F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2020F/" />
-<updated>2020-12-09T16:03:02-06:00</updated>
+<updated>2020-12-09T16:38:43-06:00</updated>
 <id>http:/IDS2020F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -97,7 +97,7 @@ consequences.&lt;/p&gt;
   &lt;li&gt;
     &lt;p&gt;Name and briefly describe three different applications of Computational and Data Sciences.&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;Show that the following (only the second set of) identities hold,
+  &lt;li&gt;Show that the following identities hold,
     &lt;figure&gt;&lt;img src=&quot;threeFundamentals.png&quot; width=&quot;250&quot; /&gt;&lt;/figure&gt;
     &lt;p&gt;where the two arrow-up and arrow-down symbols represent the fundamental NAND and NOR operators,&lt;/p&gt;
     &lt;figure&gt;&lt;img src=&quot;nand_nor.png&quot; width=&quot;200&quot; /&gt;&lt;/figure&gt;
@@ -107,6 +107,7 @@ consequences.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;Is there any reason why one would advocate and avoid the application of red and green colors in a visualization?&lt;/li&gt;
 &lt;/ol&gt;
+
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/exam/1-exam&quot;&gt;Final Exam&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on December 09, 2020.&lt;/p&gt;</content>
