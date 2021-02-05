@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2020F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2020F/" />
-<updated>2020-12-09T21:51:07-06:00</updated>
+<updated>2021-02-04T19:01:39-06:00</updated>
 <id>http:/IDS2020F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -154,127 +154,63 @@ Don’t forget to push your answers to your remote repository by the end of quiz
 (other than what you chose), which subsequently &lt;em&gt;luckily&lt;/em&gt; turns out to contain a goat (as opposed to prize: a car). Then the host asks you whether you would be interested in switching 
 the door you chose with the only other door that is available and unopened. Would you switch your choice with the other remaining door? Would you improve your odds of winning the prize 
 by switching the door? Explain our reasoning.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-When the host opens the door randomly and blindly, she is not transferring any useful knowledge to us about which door might contain the car. 
-Therefore, her action is not helpful in any way to us and we won’t benefit from dwitching the door.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What types of uncertainty do exist according to the Bayesian school of thought? Can you reduce them to make you knowledge of the phenomena more accurate?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Epistemic, Yes.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What types of uncertainty do exist according to the Frequentist school of thought? Can you reduce them to make you knowledge of the phenomena more accurate?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Epistemic, Yes. Aleatoric, No.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name the two fundamental properties of probability density functions (PDF).&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
-    &lt;ol&gt;
-      &lt;li&gt;PDFs must be always non-negative anywhere they are defined.&lt;/li&gt;
-      &lt;li&gt;The sum of the area under a PDF must equal one.&lt;/li&gt;
-    &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What Probability Density Function would likely best describe the statistics of the number of people going to Disneyland Park on any given day? Is this a discrete PDF or continuous?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Bayesian (and Classical)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name the most naturally-occurring distribution in Nature.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Does correlation mean causation? Explain with an example.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name the two major classes of aesthetics.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name the two major types of data and provide an example for each category.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What is the common name for variables holding data?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name four different color scales and explain their most appropriate usage.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the HW4 solutions.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -431,45 +367,24 @@ The following figure illustrates the grade distribution for this quiz.
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Name four major definitions of Probability.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Classical, Bayesian, Frequentist, Propensity&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Which school(s) of probability theory define(s) probability as degree of confidence?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Bayesian and Classical&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Which school(s) of probability theory allow incorporation of expert (prior) knowledge in scientific inference?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Bayesian and Classical&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;When data is scarce, which school of probability theory is the most useful for scientific inference?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Bayesian (and Classical)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name a prominent figure in each of the Frequentist and Bayesian schools of thought.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Fisher (Frequentist), and Laplace (Bayesian)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-a-nand-equivalence/logic/logic-a-nand-equivalence&quot; target=&quot;_blank&quot;&gt;NAND equivalence&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/probability-bayes-rule-proof-venn-disgram/probability-bayes-rule-proof-venn-disgram&quot; target=&quot;_blank&quot;&gt;Proof of Bayes Rule via Venn Diagrams&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -605,30 +520,18 @@ The following figure illustrates the grade distribution for this quiz.
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Name three pillars of Science.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Experiment, Theory, Computation.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name and briefly describe three different applications of Computational and Data Sciences.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Predictive modeling, numerical simulation, data-driven modeling.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-two-types-of-scientific-reasoning/logic/logic-two-types-of-scientific-reasoning&quot; target=&quot;_blank&quot;&gt;Name the two types of scientific reasoning&lt;/a&gt;.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication/logic/logic-implication&quot; target=&quot;_blank&quot;&gt;Logical Implication&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication-denial-equivalence/logic/logic-implication-denial-equivalence&quot; target=&quot;_blank&quot;&gt;Logic implication, denial, equivalence&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;What did you learn from Professor Winguth’s presentation on Monday Oct 12?&lt;/p&gt;
@@ -659,39 +562,21 @@ See the question’s page.&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;
     &lt;p&gt;Name three pillars of Science.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Experiment, Theory, Computation.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name and briefly describe three different applications of Computational and Data Sciences.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Predictive modeling, numerical simulation, data-driven modeling.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-two-types-of-scientific-reasoning/logic/logic-two-types-of-scientific-reasoning&quot; target=&quot;_blank&quot;&gt;Name the two types of scientific reasoning&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-policeman-jewelry-burglar/logic/logic-policeman-jewelry-burglar&quot; target=&quot;_blank&quot;&gt;Policeman, jewelry, and burglar&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-implication/logic/logic-implication&quot; target=&quot;_blank&quot;&gt;Logical Implication&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/logic-product-denial/logic/logic-product-denial&quot; target=&quot;_blank&quot;&gt;Logical product denial&lt;/a&gt;.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-See the question’s page.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -778,8 +663,6 @@ The following figure illustrates the grade distribution for this quiz.
  (H) &lt;code&gt;git add .; git add --u&lt;/code&gt;&lt;br /&gt;
  (I) &lt;code&gt;git add -u; git add .&lt;/code&gt;&lt;br /&gt;
  (J) &lt;code&gt;git add --u; git add .&lt;/code&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer: A, D, G, F, I&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Which of the following Git commands &lt;strong&gt;both&lt;/strong&gt; stages and commits &lt;strong&gt;only modified and deleted files&lt;/strong&gt; but &lt;strong&gt;NOT&lt;/strong&gt; the &lt;em&gt;new files&lt;/em&gt; added to the repository since the last commit. Choose all that apply.&lt;br /&gt;
@@ -787,79 +670,39 @@ The following figure illustrates the grade distribution for this quiz.
  (A) &lt;code&gt;git commit&lt;/code&gt;&lt;br /&gt;
  (B) &lt;code&gt;git commit -a&lt;/code&gt;&lt;br /&gt;
  (C) &lt;code&gt;git commit -am&lt;/code&gt;&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer: B, C&lt;/strong&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Write down the Git command that lists all Git commands for you.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;/p&gt;
-    &lt;pre&gt;&lt;code class=&quot;language-bash&quot;&gt; $ git help -a
-&lt;/code&gt;&lt;/pre&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;(A) What is the closest programming language to machine code (i.e., binary code)?&lt;/p&gt;
 
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Assembly&lt;/p&gt;
-
     &lt;p&gt;(B) Does it need interpretation in order to become machine-comprehensible?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Yes. An &lt;em&gt;Assembler&lt;/em&gt; interprets the program for the machine.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;(A) Name the oldest high-level programming language that is still in active daily use.&lt;/p&gt;
 
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Fortran&lt;/p&gt;
-
     &lt;p&gt;(B) Approximately how many decades is it old? ($\pm15$ years is acceptable answer. the decade it was created is also an acceptable answer)&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-in 1950s&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;(A) Name a second-generation programming language.&lt;/p&gt;
 
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Assembly&lt;/p&gt;
-
     &lt;p&gt;(B) Which language-generation are Fortran, C, C++, MATLAB, Python, R?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-third, third, third, fourth, fourth, fourth&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;In what decades C, C++, and MATLAB/Python were created, respectively?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-1970s, 1980s, 1980s, 1990s&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name an ancestor programming language of C.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-B&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name a programming language ancestor of C++.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-C, Simula&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Name a programming language ancestor of MATLAB and a programming language ancestor of Python.&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-Fortran/C&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;How would you distinguish exponential behavior vs. power-law behavior (function) in a 2-dimensional plot?&lt;/p&gt;
-
-    &lt;p&gt;&lt;strong&gt;Answer:&lt;/strong&gt;&lt;br /&gt;
-An exponential curve looks like a line only when the X-axis is plotted on log-scale.&lt;br /&gt;
-A power-law curve looks like a line only when both the X- and Y- axes are plotted on log-scale.&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
