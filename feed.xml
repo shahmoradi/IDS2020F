@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2020F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2020F/" />
-<updated>2021-02-04T19:01:39-06:00</updated>
+<updated>2021-10-04T00:47:59-05:00</updated>
 <id>http:/IDS2020F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -237,94 +237,65 @@ by switching the door? Explain our reasoning.&lt;/p&gt;
     &lt;p&gt;♣ &lt;strong&gt;Due Date: Wednesday Dec 2, 2020 4:00 PM (extended due to Thanksgiving break)&lt;/strong&gt;. This homework aims at giving you some experience with probability theory, and data visualization techniques.&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Name the two major types of uncertainty and explain which one(s) describe the type of uncertainty in Bayesian school of thought.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-Aleatoric and Epistemic. Bayesian School of thought advocates Epistemic uncertainty as the sole source of lack of knowledge.
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Name the most naturally-occurring distribution in Nature.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-Gaussian distribution.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-0&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-1/2&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-Poisson&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Does correlation mean causation? Explain with an example.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-No. People who eat more chocolate tend to win more Nobel prizes. There is only correlation here, but most likely no causation.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-Yes. Thw weight of people correlates strongly with how much they eat. Weight depends on the food intake.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-All data visualizations map data values into quantifiable features of the resulting graphic. We refer to these features as &lt;strong&gt;aesthetics&lt;/strong&gt;: position, shape, size, color, …&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Name the two major classes of aesthetics.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-quantitative and qualitative.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Name the two major types of data and provide an example for each category.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-quantitative (e.g., the distribution of temperature on Earth) and qualitative (e.g., all animal species on Earth).&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;What is the common name for variables holding qualitative data?&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-factor
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-Ordered: The temperature of Earth over centuries.&lt;br /&gt;
-Unordered: All animal species on Earth.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-The axes that represent data of the same nature and units (like temperature) should preferably have the same grid sizes.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-For example, when there a few extreme values in data and lots of small values, like the distribution of wealth in the society.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-Data that is periodic.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;Name four different color scales and explain their most appropriate usage.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;
-    &lt;ol&gt;
-      &lt;li&gt;Qualitative&lt;/li&gt;
-      &lt;li&gt;Sequential&lt;/li&gt;
-      &lt;li&gt;Diverging&lt;/li&gt;
-      &lt;li&gt;Accent&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-    &lt;/ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two major types of uncertainty and explain which one(s) describe the type of uncertainty in Bayesian school of thought.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the most naturally-occurring distribution in Nature.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the probability of obtaining a value 1 and 2 in a single experiment of throwing a die?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the probability of obtaining a value 1 or 2 or larger than 5 in a single experiment of throwing a die?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What distribution best describes the number of flowers per square feet of a garden, uniformly but randomly distributed across the entire garden?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does correlation mean causation? Explain with an example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does correlation between two variables imply dependence between the two variables? Explain with an example.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;what are &lt;em&gt;aesthetics&lt;/em&gt; in data visualization? Name a few aesthetics that can appear in a data visualization.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two major classes of aesthetics.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name the two major types of data and provide an example for each category.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What is the common name for variables holding qualitative data?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Provide examples of &lt;em&gt;ordered&lt;/em&gt; and &lt;em&gt;unordered&lt;/em&gt; data.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What kinds of axes in a plot should be represented with the same units and grid size?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Describe an example scenario in which transforming the axes of the plot results in better visualizations.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;What kind of data set can be best visualized in &lt;em&gt;polar coordinates&lt;/em&gt;?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Name four different color scales and explain their most appropriate usage.&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;What is wrong with the following visualization?
     &lt;figure&gt;
     &lt;img src=&quot;./4/wrong.png&quot; alt=&quot;wrong&quot; style=&quot;width:80%&quot; /&gt;
 &lt;/figure&gt;
-    &lt;p&gt;&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-Age cannot be less than zero.&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/coordinates-transformation/coordinates-transformation&quot; target=&quot;_blank&quot;&gt;Coordinates transformation in visualization&lt;/a&gt;.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-See the question page.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;br /&gt;
-&lt;strong&gt;Answer&lt;/strong&gt;&lt;br /&gt;
-See the question page.&lt;br /&gt;
-&lt;br /&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/coordinates-transformation/coordinates-transformation&quot; target=&quot;_blank&quot;&gt;Coordinates transformation in visualization&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/recipes/programming/visualization-coloring/visualization-coloring&quot; target=&quot;_blank&quot;&gt;Best visualization coloring&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
+
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/homework/4-probability-visualization&quot;&gt;Homework 4: Probability Theory and Data Visualization&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on November 15, 2020.&lt;/p&gt;</content>
