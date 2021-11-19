@@ -48,19 +48,7 @@
 
     
     <url>
-        <loc>/IDS2020F/exam/1-exam</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2020F/quiz/4-statistics-data-visualization</loc>
-    </url>
-    
-    <url>
         <loc>/IDS2020F/homework/4-probability-visualization</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2020F/quiz/3-logic-probability</loc>
     </url>
     
     <url>
@@ -76,19 +64,11 @@
     </url>
     
     <url>
-        <loc>/IDS2020F/quiz/2-data-science-history-logic</loc>
-    </url>
-    
-    <url>
         <loc>/IDS2020F/homework/2-logic</loc>
     </url>
     
     <url>
         <loc>/IDS2020F/lecture/3-logic</loc>
-    </url>
-    
-    <url>
-        <loc>/IDS2020F/quiz/1-version-control-system</loc>
     </url>
     
     <url>

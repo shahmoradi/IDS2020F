@@ -1,35 +1,11 @@
 [
 	
 		{
-		  "title"      : "Final Exam",
-		  "category"   : "",
-		  "url"        : "/IDS2020F/exam/1-exam",
-		  "date"       : "2020-12-09 00:00:00 -0600",
-		  "shortdate"  : "December 09, 2020"
-		} ,
-	
-		{
-		  "title"      : "Quiz 4: Statistics and data visualization",
-		  "category"   : "",
-		  "url"        : "/IDS2020F/quiz/4-statistics-data-visualization",
-		  "date"       : "2020-12-02 00:00:00 -0600",
-		  "shortdate"  : "December 02, 2020"
-		} ,
-	
-		{
 		  "title"      : "Homework 4: Probability Theory and Data Visualization",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/homework/4-probability-visualization",
 		  "date"       : "2020-11-15 00:00:00 -0600",
 		  "shortdate"  : "November 15, 2020"
-		} ,
-	
-		{
-		  "title"      : "Quiz 3: Logic and probability theory",
-		  "category"   : "",
-		  "url"        : "/IDS2020F/quiz/3-logic-probability",
-		  "date"       : "2020-11-02 00:00:00 -0600",
-		  "shortdate"  : "November 02, 2020"
 		} ,
 	
 		{
@@ -57,14 +33,6 @@
 		} ,
 	
 		{
-		  "title"      : "Quiz 2: Data Science History Logic",
-		  "category"   : "",
-		  "url"        : "/IDS2020F/quiz/2-data-science-history-logic",
-		  "date"       : "2020-10-14 00:00:00 -0500",
-		  "shortdate"  : "October 14, 2020"
-		} ,
-	
-		{
 		  "title"      : "Homework 2: Data Science history, and logic",
 		  "category"   : "",
 		  "url"        : "/IDS2020F/homework/2-logic",
@@ -78,14 +46,6 @@
 		  "url"        : "/IDS2020F/lecture/3-logic",
 		  "date"       : "2020-09-30 00:00:00 -0500",
 		  "shortdate"  : "September 30, 2020"
-		} ,
-	
-		{
-		  "title"      : "Quiz 1: Version control system, programming history",
-		  "category"   : "",
-		  "url"        : "/IDS2020F/quiz/1-version-control-system",
-		  "date"       : "2020-09-28 00:00:00 -0500",
-		  "shortdate"  : "September 28, 2020"
 		} ,
 	
 		{

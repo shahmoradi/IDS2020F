@@ -2,26 +2,6 @@
 callback([
 
   {
-    "text": "Quiz 4: Statistics and data visualization",
-    "href": "/IDS2020F/quiz/4-statistics-data-visualization"
-  } ,
-
-  {
-    "text": "Quiz 3: Logic and probability theory",
-    "href": "/IDS2020F/quiz/3-logic-probability"
-  } ,
-
-  {
-    "text": "Quiz 2: Data Science History Logic",
-    "href": "/IDS2020F/quiz/2-data-science-history-logic"
-  } ,
-
-  {
-    "text": "Quiz 1: Version control system, programming history",
-    "href": "/IDS2020F/quiz/1-version-control-system"
-  } ,
-
-  {
     "text": "Lecture 5: Data Visualization Techniques",
     "href": "/IDS2020F/lecture/5-data-vis"
   } ,
@@ -64,11 +44,6 @@ callback([
   {
     "text": "Homework 1: Version Control Using Git and Github",
     "href": "/IDS2020F/homework/1-version-control-using-git-github"
-  } ,
-
-  {
-    "text": "Final Exam",
-    "href": "/IDS2020F/exam/1-exam"
   } ,
 
   {
