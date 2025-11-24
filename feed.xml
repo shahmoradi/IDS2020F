@@ -7,7 +7,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http:/IDS2020F/feed.xml" />
 <link rel="alternate" type="text/html" href="http:/IDS2020F/" />
-<updated>2021-11-18T20:09:33-06:00</updated>
+<updated>2025-11-23T21:08:58-06:00</updated>
 <id>http:/IDS2020F/</id>
 <author>
   <name>Amir Shahmoradi</name>
@@ -99,35 +99,6 @@
 
 
 <entry>
-  <title type="html"><![CDATA[Lecture 5: Data Visualization Techniques]]></title>
-  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/5-data-vis"/>
-  <id>http:/IDS2020F/lecture/5-data-vis</id>
-  <published>2020-11-01T00:00:00-05:00</published>
-  <updated>0000-00-00T00:00:00-00:00</updated>
-  
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/IDS2020F</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    
-&lt;p&gt;This lecture aims at providing an overview of the history of Data Science and Logic.&lt;/p&gt;
-
-&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/UTA-DataScience/DATA1301.2020.Fall/raw/master/3.datavis.pdf&quot; target=&quot;_blank&quot;&gt;Data Visualization Techniques&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/5-data-vis&quot;&gt;Lecture 5: Data Visualization Techniques&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on November 01, 2020.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
   <title type="html"><![CDATA[Homework 3: Logic and Probability Theory]]></title>
   <link rel="alternate" type="text/html" href="http:/IDS2020F/homework/3-logic-probability-theory"/>
   <id>http:/IDS2020F/homework/3-logic-probability-theory</id>
@@ -156,35 +127,6 @@
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/homework/3-logic-probability-theory&quot;&gt;Homework 3: Logic and Probability Theory&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on October 21, 2020.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Lecture 4: Probability Theory]]></title>
-  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/4-probability-theory"/>
-  <id>http:/IDS2020F/lecture/4-probability-theory</id>
-  <published>2020-10-15T00:00:00-05:00</published>
-  <updated>0000-00-00T00:00:00-00:00</updated>
-  
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/IDS2020F</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    
-&lt;p&gt;This lecture aims at providing an overview of the history of Probability Theory and Randomness.&lt;/p&gt;
-
-&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/UTA-DataScience/DATA1301.2020.Fall/raw/master/2.logic.probability.pdf&quot; target=&quot;_blank&quot;&gt;Probability Theory&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/4-probability-theory&quot;&gt;Lecture 4: Probability Theory&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on October 15, 2020.&lt;/p&gt;</content>
 </entry>
 
 
@@ -228,96 +170,6 @@
 
   
   &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/homework/2-logic&quot;&gt;Homework 2: Data Science history, and logic&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on October 07, 2020.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Lecture 3: Data Science history and Logic]]></title>
-  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/3-logic"/>
-  <id>http:/IDS2020F/lecture/3-logic</id>
-  <published>2020-09-30T00:00:00-05:00</published>
-  <updated>0000-00-00T00:00:00-00:00</updated>
-  
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/IDS2020F</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    
-&lt;p&gt;This lecture aims at providing an overview of the history of Data Science and Logic.&lt;/p&gt;
-
-&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/UTA-DataScience/DATA1301.2020.Fall/raw/master/1.data.science.history.logic.pdf&quot; target=&quot;_blank&quot;&gt;Logic 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/UTA-DataScience/DATA1301.2020.Fall/raw/master/2.logic.probability.pdf&quot; target=&quot;_blank&quot;&gt;Logic 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/3-logic&quot;&gt;Lecture 3: Data Science history and Logic&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on September 30, 2020.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Lecture 2: Version Control Systems, Git, and GitHub]]></title>
-  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/2-vcs"/>
-  <id>http:/IDS2020F/lecture/2-vcs</id>
-  <published>2020-09-02T00:00:00-05:00</published>
-  <updated>0000-00-00T00:00:00-00:00</updated>
-  
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/IDS2020F</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    
-&lt;p&gt;This lecture aims at providing an overview of the Version Control Systems (VCS) and how to use them for our needs in this course.&lt;/p&gt;
-
-&lt;div class=&quot;post_toc&quot;&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;version-control-systems-git-and-github&quot;&gt;Version Control Systems, Git, and GitHub&lt;/h3&gt;
-
-&lt;p&gt;To lean about VCS, Git, and GitHub, we will follow the lecture notes available here,&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/version-control-system/version-control-system.html&quot; target=&quot;_blank&quot;&gt;VCS (Python)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/matlab/notes/preliminary-foundations/version-control-system/version-control-system.html&quot; target=&quot;_blank&quot;&gt;VCS (MATLAB)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/2-vcs&quot;&gt;Lecture 2: Version Control Systems, Git, and GitHub&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on September 02, 2020.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Lecture 1: Programming history]]></title>
-  <link rel="alternate" type="text/html" href="http:/IDS2020F/lecture/1-programming-history"/>
-  <id>http:/IDS2020F/lecture/1-programming-history</id>
-  <published>2020-08-31T00:00:00-05:00</published>
-  <updated>0000-00-00T00:00:00-00:00</updated>
-  
-  <author>
-    <name>Amir Shahmoradi</name>
-    <uri>http:/IDS2020F</uri>
-    <email>shahmoradi@utexas.edu</email>
-  </author>
-  
-  <content type="html">
-  
-    &lt;p&gt;This lecture aims at providing a brief history of the development of computers and computer programming languages and their mutual interaction with rapid developments in natural sciences in the 20th century.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.cdslab.org/python/notes/preliminary-foundations/programming-history/programming-history.html&quot; target=&quot;_blank&quot;&gt;programming history&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  
-  &lt;p&gt;&lt;a href=&quot;http:/IDS2020F/lecture/1-programming-history&quot;&gt;Lecture 1: Programming history&lt;/a&gt; was originally published by Amir Shahmoradi at &lt;a href=&quot;http:/IDS2020F&quot;&gt;DATA 1301 - Fall 2020 - MW 4:00-5:20 - Microsoft Teams Virtual Room&lt;/a&gt; on August 31, 2020.&lt;/p&gt;</content>
 </entry>
 
 
@@ -378,7 +230,7 @@
 &lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;!-- include.path must be given relative to site.url, which is the project's root directory --&gt;
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
     &lt;figure&gt;
@@ -395,7 +247,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;!-- include.path must be given relative to site.url, which is the project's root directory --&gt;
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
     &lt;figure&gt;
@@ -407,12 +259,12 @@
         &lt;/a&gt;
         
         
-            &lt;figcaption&gt;What I imagined I'd do as a physicist&lt;/figcaption&gt;
+            &lt;figcaption&gt;What I imagined I&apos;d do as a physicist&lt;/figcaption&gt;
         
     &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;!-- include.path must be given relative to site.url, which is the project's root directory --&gt;
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
     &lt;figure&gt;
@@ -669,7 +521,7 @@
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;!-- include.path must be given relative to site.url, which is the project's root directory --&gt;
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
     &lt;figure&gt;
@@ -684,7 +536,7 @@
     &lt;/figure&gt;
 &lt;/div&gt;
 
-&lt;!-- include.path must be given relative to site.url, which is the project's root directory --&gt;
+&lt;!-- include.path must be given relative to site.url, which is the project&apos;s root directory --&gt;
 
 &lt;div style=&quot;display:block;text-align:center;margin-right:auto;margin-left:auto&quot;&gt;
     &lt;figure&gt;
