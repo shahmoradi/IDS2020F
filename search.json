@@ -1,0 +1,43 @@
+[
+	
+		{
+		  "title"      : "Homework 4: Probability Theory and Data Visualization",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/homework/4-probability-visualization",
+		  "date"       : "2020-11-15 00:00:00 -0600",
+		  "shortdate"  : "November 15, 2020"
+		} ,
+	
+		{
+		  "title"      : "Homework 3: Logic and Probability Theory",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/homework/3-logic-probability-theory",
+		  "date"       : "2020-10-21 00:00:00 -0500",
+		  "shortdate"  : "October 21, 2020"
+		} ,
+	
+		{
+		  "title"      : "Homework 2: Data Science history, and logic",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/homework/2-logic",
+		  "date"       : "2020-10-07 00:00:00 -0500",
+		  "shortdate"  : "October 07, 2020"
+		} ,
+	
+		{
+		  "title"      : "Homework 1: Version Control Using Git and Github",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/homework/1-version-control-using-git-github",
+		  "date"       : "2020-08-31 00:00:00 -0500",
+		  "shortdate"  : "August 31, 2020"
+		} ,
+	
+		{
+		  "title"      : "Announcement 0: Student-professor connection day",
+		  "category"   : "",
+		  "url"        : "/IDS2020F/announcement/0-student-professor-connection-day",
+		  "date"       : "2020-08-26 00:00:00 -0500",
+		  "shortdate"  : "August 26, 2020"
+		} 
+	
+]
